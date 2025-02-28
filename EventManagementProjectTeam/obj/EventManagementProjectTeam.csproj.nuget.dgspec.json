@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\EventManagementProject\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj": {}
   },
   "projects": {
@@ -13,29 +12,12 @@
         "projectPath": "C:\\EventManagementProject\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj",
         "packagesPath": "C:\\Users\\2388225\\.nuget\\packages\\",
         "outputPath": "C:\\EventManagementProject\\EventManagementProjectTeam\\obj\\",
-=======
-    "C:\\project\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj": {}
-  },
-  "projects": {
-    "C:\\project\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\project\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj",
-        "projectName": "EventManagementProjectTeam",
-        "projectPath": "C:\\project\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj",
-        "packagesPath": "C:\\Users\\2388308\\.nuget\\packages\\",
-        "outputPath": "C:\\project\\EventManagementProjectTeam\\obj\\",
->>>>>>> 8061ee31b313b5bb69d132caee2a28c27ff3d2d0
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
           "C:\\Users\\2388225\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\2388308\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 8061ee31b313b5bb69d132caee2a28c27ff3d2d0
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
