@@ -15,6 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19fd05d6194e9cd215157db16019b1e8f0f73e7e")]
 =======
 <<<<<<< HEAD
@@ -27,6 +28,9 @@ using System.Reflection;
 >>>>>>> 04d0dff3fef9564320a22b5d1b079013ab8c6a1f
 >>>>>>> 19fd05d6194e9cd215157db16019b1e8f0f73e7e
 >>>>>>> 6c10433ca91ea080754ab9c99436e6cf0efd682f
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c10433ca91ea080754ab9c99436e6cf0efd682f")]
+>>>>>>> 7b65532719ca6d699768132d5005e4d53bcd5106
 [assembly: System.Reflection.AssemblyProductAttribute("EventManagementProjectTeam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventManagementProjectTeam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
