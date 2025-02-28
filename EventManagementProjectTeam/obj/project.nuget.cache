@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "nsM4E4h9MkQ=",
+<<<<<<< HEAD
+  "dgSpecHash": "JgFHJ+dRT/8=",
   "success": true,
-  "projectFilePath": "C:\\project\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj",
+  "projectFilePath": "C:\\Project\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj",
+=======
+  "dgSpecHash": "HxRpK1B+Qxk=",
+  "success": true,
+  "projectFilePath": "C:\\EventManagementProject\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj",
+>>>>>>> 246a357a9f1d0b4ab86b75437a526ec9f36b11fb
   "expectedPackageFiles": [],
   "logs": []
 }
