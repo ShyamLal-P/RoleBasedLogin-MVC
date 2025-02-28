@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventManagementProjectTeam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfb193c14cfd95ba45168e0500cc13cb95beb054")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d28c0921877aac495255c1d7146a437bba2cecd")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventManagementProjectTeam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventManagementProjectTeam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
