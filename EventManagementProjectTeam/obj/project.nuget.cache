@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nsM4E4h9MkQ=",
+  "success": true,
+  "projectFilePath": "C:\\project\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\project\\EventManagementProjectTeam\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}
