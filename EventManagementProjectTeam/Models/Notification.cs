@@ -1,6 +1,6 @@
 ﻿namespace EventManagementProjectTeam.Models
 {
-    public class Notifications
+    public class Notification
     {
     }
 }
