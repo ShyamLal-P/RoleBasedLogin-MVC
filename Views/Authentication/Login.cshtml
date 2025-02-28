@@ -1,0 +1,17 @@
+﻿<h2>Login</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.Label("Username")
+    @Html.TextBox("username")
+    <br />
+    @Html.Label("Password")
+    @Html.Password("password")
+    <br />
+    <input type="submit" value="Login" />
+}
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <p style="color:red;">@ViewBag.ErrorMessage</p>
+}
