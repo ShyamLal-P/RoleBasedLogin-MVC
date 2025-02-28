@@ -14,23 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventManagementProjectTeam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19fd05d6194e9cd215157db16019b1e8f0f73e7e")]
-=======
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04d0dff3fef9564320a22b5d1b079013ab8c6a1f")]
-=======
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8061ee31b313b5bb69d132caee2a28c27ff3d2d0")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec4bba2ea6501e7d24ef80dae770e069ec5e61a6")]
->>>>>>> 04d0dff3fef9564320a22b5d1b079013ab8c6a1f
->>>>>>> 19fd05d6194e9cd215157db16019b1e8f0f73e7e
->>>>>>> 6c10433ca91ea080754ab9c99436e6cf0efd682f
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c10433ca91ea080754ab9c99436e6cf0efd682f")]
->>>>>>> 7b65532719ca6d699768132d5005e4d53bcd5106
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c60e03cf3d71b23ce23753f48cab022152f770e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventManagementProjectTeam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventManagementProjectTeam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
