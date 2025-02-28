@@ -1,7 +1,6 @@
 ﻿namespace EventManagementProjectTeam.Models
 {
-    public class User
+    public class Ticket
     {
-
     }
 }
