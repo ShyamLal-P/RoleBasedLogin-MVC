@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EventManagementProject\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj": {}
+    "C:\\Curriculum\\Project\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj": {}
   },
   "projects": {
-    "C:\\EventManagementProject\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj": {
+    "C:\\Curriculum\\Project\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EventManagementProject\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj",
+        "projectUniqueName": "C:\\Curriculum\\Project\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj",
         "projectName": "EventManagementProjectTeam",
-        "projectPath": "C:\\EventManagementProject\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj",
-        "packagesPath": "C:\\Users\\2388225\\.nuget\\packages\\",
-        "outputPath": "C:\\EventManagementProject\\EventManagementProjectTeam\\obj\\",
+        "projectPath": "C:\\Curriculum\\Project\\EventManagementProjectTeam\\EventManagementProjectTeam.csproj",
+        "packagesPath": "C:\\Users\\2387683\\.nuget\\packages\\",
+        "outputPath": "C:\\Curriculum\\Project\\EventManagementProjectTeam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\2388225\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\2387683\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
